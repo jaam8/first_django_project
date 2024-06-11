@@ -36,6 +36,9 @@
    содержание файла .env
    ```ini
    SECRET_KEY=your_secret_key
+   EMAIL_HOST_USER=your_email@gmail.com
+   EMAIL_HOST_PASSWORD=your_password
+   EMAIL_PORT=port
    ```
 
 7. Примените миграции базы данных
